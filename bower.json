@@ -1,0 +1,17 @@
+{
+  "name": "bb_input_areas",
+  "version": "1.4",
+  "homepage": "https://github.com/buildingfirefoxos/bb_input_areas",
+  "authors": [
+    "The gaia team"
+  ],
+  "description": "Input areas  - Firefox OS Building Blocks",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
